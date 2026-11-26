@@ -4,7 +4,7 @@
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Software+Developer;Computer+Vision+Enthusiast;Building+Real-World+AI+Solutions;Python+%7C+React+%7C+OpenCV+%7C+TensorFlow" />
   </p>
-<h3 align="center">🌐 <a href="https://angelmathew.vercel.app/">View My Portfolio</a></h3>  ---
+<h3 align="center">🌐 <a href="https://angelmathew.vercel.app/">View My Portfolio</a></h3> 
   
   ## 👩‍💻 About Me
   
